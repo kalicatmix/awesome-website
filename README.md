@@ -1,5 +1,5 @@
-#                                          awesome-website
+# Awesome-Website
 
-[english version]: README_es.md
-[chinese version]: README_zh.md
+* Chinese Version  : [here](README_es.md)
+* English Version  : [here](README_zh.md)
 
