@@ -1,7 +1,5 @@
 #                                          awesome-website
 
-> []: README_es.md	"english version"
-> []: README_zh.md	"chinese version"
->
-> 
+[english version]: README_es.md
+[chinese version]: README_zh.md
 
