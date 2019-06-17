@@ -8,3 +8,6 @@
 - [sdk.cn](https://sdk.cn/)
 - [云栖社区](https://yq.aliyun.com/)
 - [腾讯云-开发者实验室](https://cloud.tencent.com/developer/labs)
+- [1024搜索](https://1024ss.com/)
+- [看雪论坛](https://www.kanxue.com/)
+- [hackjie](https://www.hackjie.com/)

@@ -24,3 +24,7 @@
   - [资源猫](https://www.ziyuanm.com/)
   - [更多](content/zh/source.md)
 
+4. 工具
+  - [开发在线工具](https://tool.lu/)
+  - [菜鸟工具](https://c.runoob.com/)
+  - [ctf工具](https://www.ctftools.com/down/)
