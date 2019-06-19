@@ -11,3 +11,4 @@
 - [1024搜索](https://1024ss.com/)
 - [看雪论坛](https://www.kanxue.com/)
 - [hackjie](https://www.hackjie.com/)
+- [hackernews](http://hackernews.cc/)
