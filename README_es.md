@@ -11,6 +11,7 @@
 2. study
 - [checklist](https://www.checklist.design/) A collection of the best UX and UI practices.
 - [overapi](http://overapi.com/) Collecting All Cheat Sheets 
+- [algorithm-visualizer](https://algorithm-visualizer.org/)
 - [more](content/en/study.md)
 3. source
 - [sourceforge](https://sourceforge.net/) The complete Open-Source and business software platform
