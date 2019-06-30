@@ -10,3 +10,4 @@
 - [ZoomEyE.钟馗之眼安全搜索引擎](https://www.zoomeye.org/)
 - [奇异书屋.图书下载](https://www.talebook.org/)
 - [emoji搜索](https://emojipedia.org/)
+- [清华镜像站点](https://mirrors.tuna.tsinghua.edu.cn/)
